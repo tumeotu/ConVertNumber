@@ -1,0 +1,6 @@
+﻿  QInt.cpp
+e:\nam 2\kien truc may tinh & hop ngu\kien truc may tinh\doan\doan\doan1\qint.cpp(674): warning C4018: '>=': signed/unsigned mismatch
+e:\nam 2\kien truc may tinh & hop ngu\kien truc may tinh\doan\doan\doan1\qint.cpp(687): warning C4018: '<': signed/unsigned mismatch
+e:\nam 2\kien truc may tinh & hop ngu\kien truc may tinh\doan\doan\doan1\qint.cpp(451): warning C4715: 'QInt::TinhToan': not all control paths return a value
+e:\nam 2\kien truc may tinh & hop ngu\kien truc may tinh\doan\doan\doan1\qint.cpp(467): warning C4715: 'QInt::SoSanh': not all control paths return a value
+  DoAn1.vcxproj -> E:\NAM 2\KIEN TRUC MAY TINH & HOP NGU\KIEN TRUC MAY TINH\DOAN\DOAN\Debug\DoAn1.exe
